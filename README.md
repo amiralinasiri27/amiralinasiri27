@@ -1,16 +1,76 @@
 ## Hi there 👋
 
-<!--
-**amiralinasiri27/amiralinasiri27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Amirali Nasriri, Computer Science student at Shahid Beheshti university, Tehran.
 
-Here are some ideas to get you started:
+## My Tools and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="icons/git.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/python.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/numpy-1.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/pandas.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/c++.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/java.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/postgres.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/css-3.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/html-1.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/logo-javascript.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/react-2.svg" alt="git" height=50 width=50">
+    <img width=25>
+    
+</div>
+
+<br>
+
+## 💻 Projects
+Here are some projects I'm proud of
+
+### YouTube
+
+Final project of Advanced-Programming course in SBU
+
+- **Technologies:** Java, Javafx, PostgreSQL
+- **Highlights:** API, Json, Frontend, SQL, Database
+
+Link of the project: [YouTube]()
+
+### Reddit 
+
+Midterm projct of Advanced-Programming course in SBU
+
+Link of the project: [Reddit](https://github.com/amiralinasiri27/SBU_AP_Reddit)
+
+<br>
+
+<div align="center">
+  <a href="https://www.instagram.com/amirali__nasiri_?igsh=aW82cmxvYzRtOHZj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd486b&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
+  </a>
+  <a href="amirnasiri1383710@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a>
+  <a href="
+  https://www.linkedin.com/in/amirali-nasiri-370646283/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+  </a>
+   <a href="https://gitlab.com/amirnasiri1383710" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FCA121&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gitlab logo"  />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=amiralinasiri27&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralinasiri27&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
+</div>
