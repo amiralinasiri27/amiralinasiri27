@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=<--- HOPE --->" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=----HOPE----"/>
   </a>
 </p>
 
-
+<br>
 
 ### Hi I'm Amirali Nasriri, Computer Science student at Shahid Beheshti university, Tehran.
+
+<br>
 
 ## My Tools and Technologies
 
