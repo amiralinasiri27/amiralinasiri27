@@ -1,6 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=<--- HOPE --->" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm Amirali Nasriri, Computer Science student at Shahid Beheshti university, Tehran.
+
+
+### Hi I'm Amirali Nasriri, Computer Science student at Shahid Beheshti university, Tehran.
 
 ## My Tools and Technologies
 
