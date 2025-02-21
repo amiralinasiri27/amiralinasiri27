@@ -37,7 +37,6 @@
     <img width=25>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50>
     <img width=25>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Blockchain_icon.svg" alt="blockchain" height=50 width=50>
 </div>
 
 <br>
