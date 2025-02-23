@@ -35,9 +35,8 @@
     <img width=25>
     <img src="icons/react-2.svg" alt="git" height=50 width=50">
     <img width=25>
-    <div style="background-color: black; padding: 10px; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="50" width="50">
-</div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50>
+    <img width=25>
 </div>
 
 <br>
