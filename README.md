@@ -15,27 +15,27 @@
 <div align="center">
     <img src="icons/git.svg" alt="git" height=50 width=50">
     <img width=25>
+  <img src="icons/postgres.svg" alt="git" height=50 width=50">
+    <img width=25>
+   <img src="icons/c++.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/java.svg" alt="git" height=50 width=50">
+    <img width=25>
     <img src="icons/python.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="icons/numpy-1.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="icons/pandas.svg" alt="git" height=50 width=50">
     <img width=25>
-    <img src="icons/c++.svg" alt="git" height=50 width=50">
-    <img width=25>
-    <img src="icons/java.svg" alt="git" height=50 width=50">
-    <img width=25>
-    <img src="icons/postgres.svg" alt="git" height=50 width=50">
-    <img width=25>
-    <img src="icons/css-3.svg" alt="git" height=50 width=50">
-    <img width=25>
-    <img src="icons/html-1.svg" alt="git" height=50 width=50">
-    <img width=25>
-    <img src="icons/logo-javascript.svg" alt="git" height=50 width=50">
+  <img src="icons/logo-javascript.svg" alt="git" height=50 width=50">
     <img width=25>
   <a href="https://www.typescriptlang.org/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height=50 width=50>
 </a>
+    <img src="icons/css-3.svg" alt="git" height=50 width=50">
+    <img width=25>
+    <img src="icons/html-1.svg" alt="git" height=50 width=50">
+    <img width=25>
     <img src="icons/react-2.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50>
