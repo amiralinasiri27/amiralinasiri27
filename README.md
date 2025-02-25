@@ -41,7 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height=50 width=50>
 </a>
   <a href="https://en.wikipedia.org/wiki/MySQL">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mysql_logo.svg/256px-Mysql_logo.svg.png" alt="MySQL" height=50 width=50>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mysql_logo.svg/256px-Mysql_logo.svg.png](https://en.wikipedia.org/wiki/MySQL#/media/File:MySQL_logo.svg)" alt="MySQL" height=50 width=50>
 </a>
 </div>
 
