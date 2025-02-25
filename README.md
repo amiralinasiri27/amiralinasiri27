@@ -32,14 +32,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height=50 width=50>
     <img width=25>
 </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50>
+    <img width=25>
     <img src="icons/css-3.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="icons/html-1.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="icons/react-2.svg" alt="git" height=50 width=50">
-    <img width=25>
-<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50> -->
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F374088%2Fsolidity&psig=AOvVaw1-KJgUTZO5So30qpCwvnQ4&ust=1740555832889000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj1zvSp3osDFQAAAAAdAAAAABAE)" alt="solidity" height=50 width=50>
     <img width=25>
 </div>
 
