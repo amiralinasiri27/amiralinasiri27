@@ -32,10 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height=50 width=50>
     <img width=25>
 </a>
-<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50> -->
-  <div style="background-color: black; display: inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="50" width="50" style="mix-blend-mode: multiply; filter: invert(100%);">
-</div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50>
   <img width=25>
     <img src="icons/css-3.svg" alt="git" height=50 width=50">
     <img width=25>
