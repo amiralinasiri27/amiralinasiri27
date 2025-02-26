@@ -33,7 +33,9 @@
     <img width=25>
 </a>
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height=50 width=50> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="50" width="50" style="filter: grayscale(100%) brightness(200%);">
+  <div style="background-color: black; display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="solidity" height="50" width="50" style="mix-blend-mode: multiply; filter: invert(100%);">
+</div>
   <img width=25>
     <img src="icons/css-3.svg" alt="git" height=50 width=50">
     <img width=25>
