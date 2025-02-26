@@ -13,7 +13,7 @@
 ## My Tools and Technologies
 
 <div align="center">
-    <img src="icons/git.svg" alt="git" height=50 width=50">
+<!--     <img src="icons/git.svg" alt="git" height=50 width=50">
     <img width=25>
   <img src="icons/postgres.svg" alt="git" height=50 width=50">
     <img width=25>
@@ -39,7 +39,21 @@
     <img src="icons/html-1.svg" alt="git" height=50 width=50">
     <img width=25>
     <img src="icons/react-2.svg" alt="git" height=50 width=50">
-    <img width=25>
+    <img width=25> -->
+  ![Git](icons/git.svg){: height="30px" width="30px"}
+![Postgres](icons/postgres.svg){: height="40px" width="40px"}
+![C++](icons/c++.svg){: height="50px" width="50px"}
+![Java](icons/java.svg){: height="40px" width="40px"}
+![Python](icons/python.svg){: height="50px" width="50px"}
+![NumPy](icons/numpy-1.svg){: height="30px" width="30px"}
+![Pandas](icons/pandas.svg){: height="40px" width="40px"}
+![JavaScript](icons/logo-javascript.svg){: height="50px" width="50px"}
+![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png){: height="50px" width="50px"}
+![Solidity](icons/solidity-svgrepo-com.svg){: height="40px" width="40px"}
+![CSS](icons/css-3.svg){: height="30px" width="30px"}
+![HTML](icons/html-1.svg){: height="40px" width="40px"}
+![React](icons/react-2.svg){: height="50px" width="50px"}
+
 </div>
 
 <br>
