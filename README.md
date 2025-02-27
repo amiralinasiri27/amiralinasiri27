@@ -34,26 +34,6 @@
 
 <br>
 
-## 💻 Projects
-Here are some projects I'm proud of
-
-### YouTube
-
-Final project of Advanced-Programming course in SBU
-
-- **Technologies:** Java, Javafx, PostgreSQL
-- **Highlights:** API, Json, Frontend, SQL, Database
-
-Link of the project: [YouTube]()
-
-### Reddit 
-
-Midterm projct of Advanced-Programming course in SBU
-
-Link of the project: [Reddit](https://github.com/amiralinasiri27/SBU_AP_Reddit)
-
-<br>
-
 <div align="center">
   <a href="https://www.instagram.com/amirali__nasiri_?igsh=aW82cmxvYzRtOHZj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=cd486b&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
