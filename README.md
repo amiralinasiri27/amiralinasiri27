@@ -20,6 +20,7 @@
     <img src="icons/c++.svg" alt="c++" height="50" width="50">
     <img src="icons/java.svg" alt="java" height="50" width="50">
     <img src="icons/python.svg" alt="python" height="50" width="50">
+    <img src="[icons/react-2.svg](https://en.wikipedia.org/wiki/R_(programming_language)#/media/File:R_logo.svg)" alt="R" height="50" width="50">
     <img src="icons/numpy-1.svg" alt="numpy" height="50" width="50">
     <img src="icons/pandas.svg" alt="pandas" height="50" width="50">
     <img src="icons/logo-javascript.svg" alt="javascript" height="50" width="50">
