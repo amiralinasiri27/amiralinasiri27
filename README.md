@@ -23,6 +23,7 @@
 <!--     <img src="icons/file-type-r.svg" alt="R" height="50" width="50"> -->
     <img src="icons/numpy-1.svg" alt="numpy" height="50" width="50">
     <img src="icons/pandas.svg" alt="pandas" height="50" width="50">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" height="50" width="50">
     <img src="icons/logo-javascript.svg" alt="javascript" height="50" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50" width="50">
     <img src="icons/solidity-svgrepo-com.svg" alt="solidity" height="50" width="50">
