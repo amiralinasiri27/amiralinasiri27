@@ -6,7 +6,7 @@
 
 <br>
 
-### Hi I'm Amirali Nasriri, Computer Science student at Shahid Beheshti university, Tehran.
+### Hi I'm Amirali Nasiri, Computer Science student at Shahid Beheshti university, Tehran.
 
 <br>
 
