@@ -24,10 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="50" width="50">
   <img src="icons/react-2.svg" alt="react" height="50" width="50">
   <img src="icons/solidity-svgrepo-com.svg" alt="solidity" height="50" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" height="50" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" height="50" width="50">
   <img src="https://vyper.readthedocs.io/en/stable/_static/logo.svg" alt="vyper" height="50" width="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50" width="50">
 </div>
 
 </div>
