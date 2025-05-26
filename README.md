@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="50" width="50">
   <img src="icons/react-2.svg" alt="react" height="50" width="50">
   <img src="icons/solidity-svgrepo-com.svg" alt="solidity" height="50" width="50">
-  <img src="https://vyper.readthedocs.io/en/stable/_static/logo.svg" alt="vyper" height="50" width="50">
+  <img src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" alt="vyper" height="50" width="50">
 </div>
 
 </div>
