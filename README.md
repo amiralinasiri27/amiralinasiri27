@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" height="50" width="50">
   <img src="icons/react-2.svg" alt="react" height="50" width="50">
   <img src="icons/solidity-svgrepo-com.svg" alt="solidity" height="50" width="50">
-  <img src="(https://metana.io/wp-content/uploads/2023/10/pluginIcon.png)" alt="HardHat" height="50" width="50">
+  <img src="[(https://metana.io/wp-content/uploads/2023/10/pluginIcon.png)](https://metana.io/wp-content/uploads/2023/10/pluginIcon.png)" alt="HardHat" height="50" width="50">
 <!--   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust" height="50" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="50" width="50">
 <img src="https://assets.website-files.com/60907e5f6e85848e3592e353/60a7d5786f05f771df6c8585_Hardhat_logo-p-500.png" alt="Hardhat" height="50" width="50"> -->
