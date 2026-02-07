@@ -51,9 +51,9 @@
   </a>
 </div>
 
-<br>
+<!-- <br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amiralinasiri27&theme=darcula&show_icons=true&hide_border=true&count_private=true" alt="Stats1" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralinasiri27&theme=darcula&show_icons=true&hide_border=true&layout=compact" alt="Stats2" height="150">
-</div>
+</div> -->
